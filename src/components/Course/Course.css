@@ -1,3 +1,11 @@
 .icon {
   font-size: 25px;
 }
+.course-card {
+  box-shadow: 5px 3px 15px gray;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+.course-card:hover {
+  transform: scale(1.03);
+}

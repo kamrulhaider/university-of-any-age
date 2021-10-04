@@ -8,6 +8,8 @@ import Home from './components/Home/Home';
 import About from './components/About/About'
 import ContactUs from './components/ContactUs/ContactUs'
 import NotFound from './components/NotFound/NotFound'
+import CourseDetails from './components/CourseDetails/CourseDetails';
+import Enrolled from './components/Enrolled/Enrolled';
 
 
 function App() {
@@ -30,12 +32,19 @@ function App() {
           <Route exact path="/contact">
             <ContactUs></ContactUs>
           </Route>
+          <Route exact path="/details">
+            <CourseDetails></CourseDetails>
+          </Route>
+          <Route exact path="/enrolled">
+            <Enrolled></Enrolled>
+          </Route>
           <Route path="*">
             <NotFound></NotFound>
           </Route>
         </Switch>
         <Footer></Footer>
       </BrowserRouter>
+
     </div>
   );
 }

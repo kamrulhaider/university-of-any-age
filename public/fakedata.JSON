@@ -4,108 +4,108 @@
       "name": "English Language Programs",
       "details": "We offer English language programs to help you develop your English language skills to assist you to meet the entry requirements for your chosen course.",
       "img": "https://images.pexels.com/photos/5676744/pexels-photo-5676744.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "duration":8,
+      "duration":4,
       "type": "Full Time",
-      "price": 100
+      "price": 10000
     },
     
     {
       "key": 102,
-      "name": "English Language Programs",
-      "details": "We offer English language programs to help you develop your English language skills to assist you to meet the entry requirements for your chosen course.",
-      "img": "https://www.undp.org/sites/g/files/zskgke326/files/2021-06/UNDP-NYC-2020-Achim-Steiner-49494260192_0.jpg",
-      "duration":8,
+      "name": "Bachelor of Science in Anthropology",
+      "details": "Anthropology takes culture as its central object of study, giving students a framework for viewing culture in the context of the natural world and evolutionary processes. Anthropologists also study the organization of social life, as well as symbolic and ideological systems.",
+      "img": "https://images.pexels.com/photos/7637397/pexels-photo-7637397.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "duration":3,
       "type": "Full Time",
-      "price": 100
+      "price": 44000
     },
     {
       "key": 103,
-      "name": "English Language Programs",
-      "details": "We offer English language programs to help you develop your English language skills to assist you to meet the entry requirements for your chosen course.",
-      "img": "https://www.undp.org/sites/g/files/zskgke326/files/2021-06/UNDP-NYC-2020-Achim-Steiner-49494260192_0.jpg",
+      "name": "Bachelor of Arts in Anthropology",
+      "details": "What will I learn? Anthropology takes culture as its central object of study, giving students a framework for viewing culture in the context of the natural world and evolutionary processes. Anthropologists also study the organization of social life, as well as symbolic and ideological systems. Anthropology views the world of human culture as a natural laboratory in which diverse historical experiments have occurred and are occurring",
+      "img": "https://images.pexels.com/photos/6751934/pexels-photo-6751934.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "duration":8,
       "type": "Full Time",
       "price": 100
     },
     {
       "key": 104,
-      "name": "English Language Programs",
-      "details": "We offer English language programs to help you develop your English language skills to assist you to meet the entry requirements for your chosen course.",
-      "img": "https://www.undp.org/sites/g/files/zskgke326/files/2021-06/UNDP-NYC-2020-Achim-Steiner-49494260192_0.jpg",
-      "duration":8,
+      "name": "Music Industry, BMus/MBA",
+      "details": "The joint B.M. Music Industry/MBA program is designed to provide high-caliber students at Syracuse University with the opportunity to complete a bachelor’s degree in the Setnor College of Music and an MBA degree in the Whitman School of Management in five years with minimal additional expense and time.",
+      "img": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "duration":5,
       "type": "Full Time",
-      "price": 100
+      "price": 55000
     },  
     {
-      "key": 104,
-      "name": "English Language Programs",
-      "details": "We offer English language programs to help you develop your English language skills to assist you to meet the entry requirements for your chosen course.",
-      "img": "https://www.undp.org/sites/g/files/zskgke326/files/2021-06/UNDP-NYC-2020-Achim-Steiner-49494260192_0.jpg",
-      "duration":8,
+      "key": 105,
+      "name": "Civil Engineering with Foundation Year MEng",
+      "details": "Successful completion of this Foundation Year guarantees progression to one of seventeen subject areas, including Civil Engineering. You will study full time through a combination of lectures, workshops, tutorials, and independent study, with three hours of laboratory practical work each week.",
+      "img": "https://images.pexels.com/photos/834892/pexels-photo-834892.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "duration":5,
       "type": "Full Time",
-      "price": 100
+      "price": 50000
     },  
     {
-      "key": 104,
-      "name": "English Language Programs",
-      "details": "We offer English language programs to help you develop your English language skills to assist you to meet the entry requirements for your chosen course.",
-      "img": "https://www.undp.org/sites/g/files/zskgke326/files/2021-06/UNDP-NYC-2020-Achim-Steiner-49494260192_0.jpg",
-      "duration":8,
+      "key": 106,
+      "name": "Civil Engineering MEng (Hons)",
+      "details": "Our courses provide you with the fundamentals of engineering, alongside design modules throughout your degree, which enable you to apply your knowledge and develop the skills you need to become a successful engineer. This four-year integrated masters will provide you with the opportunity to study a more extensive range of advanced civil engineering subjects than the BEng course. The",
+      "img": "https://images.pexels.com/photos/3862135/pexels-photo-3862135.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "duration":4,
       "type": "Full Time",
-      "price": 100
+      "price": 39000
     },  
     {
-      "key": 104,
-      "name": "English Language Programs",
-      "details": "We offer English language programs to help you develop your English language skills to assist you to meet the entry requirements for your chosen course.",
-      "img": "https://www.undp.org/sites/g/files/zskgke326/files/2021-06/UNDP-NYC-2020-Achim-Steiner-49494260192_0.jpg",
-      "duration":8,
+      "key": 107,
+      "name": "Civil Engineering BEng (Hons)",
+      "details": "What will I learn? Our courses provide you with the fundamentals of engineering, alongside design modules throughout your degree, which enable you to apply your knowledge and develop the skills you need to become a successful engineer. This three-year course covers the key subjects of civil engineering design and application.",
+      "img": "https://images.pexels.com/photos/3760529/pexels-photo-3760529.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "duration":3,
       "type": "Full Time",
-      "price": 100
+      "price": 35000
     },  
     {
-      "key": 104,
-      "name": "English Language Programs",
-      "details": "We offer English language programs to help you develop your English language skills to assist you to meet the entry requirements for your chosen course.",
-      "img": "https://www.undp.org/sites/g/files/zskgke326/files/2021-06/UNDP-NYC-2020-Achim-Steiner-49494260192_0.jpg",
-      "duration":8,
+      "key": 108,
+      "name": "Bachelor of Science in Health Information",
+      "details": "The study of Health Information Management may be the perfect major for you! Develop the technical expertise to administer computerized patient records systems and ensure that personal health information is stored securely. In this career field you will manage and analyze a vast amount of digital information",
+      "img": "https://images.pexels.com/photos/40751/running-runner-long-distance-fitness-40751.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "duration":4,
       "type": "Full Time",
-      "price": 100
+      "price": 29000
     },  
     {
-      "key": 104,
-      "name": "English Language Programs",
-      "details": "We offer English language programs to help you develop your English language skills to assist you to meet the entry requirements for your chosen course.",
-      "img": "https://www.undp.org/sites/g/files/zskgke326/files/2021-06/UNDP-NYC-2020-Achim-Steiner-49494260192_0.jpg",
-      "duration":8,
+      "key": 109,
+      "name": "Bachelor of Science in Cybersecurity",
+      "details": "It also includes the necessary computer science courses, such as data structures and algorithms, operating systems and network security, scripting languages, cryptography, secure programming, and database security, to help students succeed in being able to apply the tools required to solve problems and analyze credible data sources.",
+      "img": "https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "duration":4,
       "type": "Full Time",
-      "price": 100
+      "price": 57000
     },  
     {
-      "key": 104,
-      "name": "English Language Programs",
-      "details": "We offer English language programs to help you develop your English language skills to assist you to meet the entry requirements for your chosen course.",
-      "img": "https://www.undp.org/sites/g/files/zskgke326/files/2021-06/UNDP-NYC-2020-Achim-Steiner-49494260192_0.jpg",
-      "duration":8,
+      "key": 110,
+      "name": "Bachelor in Computer Science",
+      "details": "Students majoring in Computer Science also have the option to pursue a double major in any subject at Felician. (Examples: Major in both Criminal Justice and Computer Science, or major in both Computer Science and Cybersecurity).",
+      "img": "https://images.pexels.com/photos/2115217/pexels-photo-2115217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "duration":4,
       "type": "Full Time",
-      "price": 100
+      "price": 50000
     },  
     {
-      "key": 104,
-      "name": "English Language Programs",
-      "details": "We offer English language programs to help you develop your English language skills to assist you to meet the entry requirements for your chosen course.",
-      "img": "https://www.undp.org/sites/g/files/zskgke326/files/2021-06/UNDP-NYC-2020-Achim-Steiner-49494260192_0.jpg",
-      "duration":8,
+      "key": 111,
+      "name": "Degree Completion in Accounting",
+      "details": "The Degree Completion Program in Accounting at Felician University combines a broad business foundation with a concentration of specialized accounting courses, providing its graduates with a thorough technical knowledge of accounting as well as core business competencies in",
+      "img": "https://images.pexels.com/photos/7111954/pexels-photo-7111954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "duration":4,
       "type": "Full Time",
-      "price": 100
+      "price": 27000
     },  
     {
-      "key": 104,
-      "name": "English Language Programs",
-      "details": "We offer English language programs to help you develop your English language skills to assist you to meet the entry requirements for your chosen course.",
-      "img": "https://www.undp.org/sites/g/files/zskgke326/files/2021-06/UNDP-NYC-2020-Achim-Steiner-49494260192_0.jpg",
-      "duration":8,
+      "key": 112,
+      "name": "Bachelor of Science in Accounting",
+      "details": "No matter what field or industry, every organization needs the skills of certified accountants to thrive. You can position yourself within this enduring field by cultivating the skills and knowledge needed to guarantee your success.",
+      "img": "https://images.pexels.com/photos/6693632/pexels-photo-6693632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "duration":4,
       "type": "Full Time",
-      "price": 100
+      "price": 37000
     }
 ]
