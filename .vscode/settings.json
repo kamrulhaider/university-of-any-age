@@ -1,0 +1,7 @@
+{
+    "editor.wordWrap": "on",
+    "search.exclude": {
+        "": true
+    },
+    "search.experimental.forceExtensionHostSearch": true
+}

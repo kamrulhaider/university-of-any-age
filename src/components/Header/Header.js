@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 const Header = () => {
     return (
         <div>
-            <Navbar bg="light" expand="lg">
+            <Navbar className="py-3 bg-success navbar-dark" expand="lg">
                 <Container>
 
                     {/* logo part */}
